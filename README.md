@@ -1,9 +1,7 @@
 ## Hi there, I am Shreshtha Shaurya 👋
 ### I am student in EDHEC Business School.
-### 🔭 Also a data analyst intern in byqeeps
-
+- 🔭 Also a data analyst intern in byqeeps
 - 🌱 I’m currently trying to learn as much as I can in Data World
-
 - ⚡ Fun fact: I love reading novels and watching movies
 - 📫 How to reach me: https://www.linkedin.com/in/shreshtha-shaurya/
 <!--
