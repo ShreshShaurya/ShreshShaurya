@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently trying to learn as much as I can in Data World
 
-⚡ Fun fact: I love reading novels and watching movies.
+⚡ Fun fact: I love reading novels and watching movies. /n
 📫 How to reach me: https://www.linkedin.com/in/shreshtha-shaurya/
 <!--
 **ShreshShaurya/ShreshShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
