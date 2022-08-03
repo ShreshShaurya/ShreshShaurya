@@ -1,5 +1,10 @@
 ### Hi there, I am Shreshtha Shaurya 👋
+## I am student in EDHEC Business School.
+# 🔭 Also a data analyst intern in byqeeps
 
+- 🌱 I’m currently trying to learn as much as I can in Data World
+- 📫 How to reach me: https://www.linkedin.com/in/shreshtha-shaurya/
+- ⚡ Fun fact: I love reading novels and watching movies.
 <!--
 **ShreshShaurya/ShreshShaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
